@@ -3,12 +3,9 @@ In this we will learn about salesforce and will look into some of the interview 
 
 ## What is Salesforc?
 Salesforce is a cloud-based software company that provides businesses with tools that help them find more prospects, close more deals, and provide a higher level of service to their customers.
-
-Salesforce, Inc. is a famous American cloud-based software company that provides CRM services. Salesforce is a popular CRM tool for support, sales, and marketing teams worldwide. 
-
+Salesforce is a popular CRM tool for support, sales, and marketing teams worldwide. 
 Salesforce services allow businesses to use cloud technology to better connect with partners, customers, and potential customers. Using the Salesforce CRM, companies can track customer activity, market to customers, and many more services. 
 
-A CRM platform helps you go deeper with all your metrics and data; you could also set up a dashboard that showcases your data visually. In addition to this, you can also have personalized outreach with automation. Another significant benefit is that a CRM platform can also improve customer service's ability to help customers or a sales team's outreach efforts.
 
 ## Salesforce Architecture
 This tutorial will now briefly walk you through the Salesforce architecture. Here, you will be acquainted with the different layers of the Salesforce architecture individually.
